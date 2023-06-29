@@ -1,4 +1,4 @@
-![logo](https://github.com/Akshayp02/Akshayp02/blob/main/git_banner.png)
+
 <h1 align="center">Hi 👋, I'm Askhay</h1>
 <h3 align="center">🎆 love to build a high quality 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎𝚜♻️  💫 Always love to build design and Develop💫 🍀Try to convert perspectives in textual form Writer🌻</h3>
 
