@@ -4,16 +4,12 @@
 
 
 
-
-
-
-
-- 🌱 I’m currently learning **Android Development.**
 - 👨‍💻 Turning lines of code into meaningful experiences.
 - 📱 Crafting innovative Android apps with love.
 - 🌐 Building beautiful websites one pixel at a time.
 - 💡 Committed to open-source collaboration and innovation.
 - 🔧 Constantly learning and evolving in the tech world.
+
 - 📫 How to reach me **akshaypeherkar2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
