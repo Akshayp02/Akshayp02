@@ -1,16 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Askhay</h1>
-<h3 align="center">🎆 love to build a high quality 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎𝚜♻️  💫 Always love to build design and Develop💫 🍀Try to convert perspectives in textual form🌻</h3>
+
+ 👨‍💻 Turning lines of code into meaningful experiences.<br>
+ 📱 Crafting innovative Android apps with love.<br>
+ 🌐 Building beautiful websites one pixel at a time.<br>
+ 💡 Committed to open-source collaboration and innovation.<br>
+ 🔧 Constantly learning and evolving in the tech world.<br>
+
+
+[![An image of @akshayp02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshayp02)](https://holopin.io/@akshayp02)
 
 
 
-- 👨‍💻 Turning lines of code into meaningful experiences.
-- 📱 Crafting innovative Android apps with love.
-- 🌐 Building beautiful websites one pixel at a time.
-- 💡 Committed to open-source collaboration and innovation.
-- 🔧 Constantly learning and evolving in the tech world.
-
-- 📫 How to reach me **akshaypeherkar2002@gmail.com**
+📫 How to reach me **akshaypeherkar2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +23,3 @@
 <a href="https://www.leetcode.com/akshaypeherkar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaypeherkar2002" height="30" width="40" /></a>
 <a href="https://dev.to/akshayp02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshayp02" height="30" width="40" /></a>
 </p>
-
