@@ -3,7 +3,7 @@
 
  👨‍💻 Turning lines of code into meaningful experiences.<br>
  📱 Crafting innovative Android apps with love.<br>
- 💬 Ask me about Android web Spring-Boot React!
+ 💬 Ask me about Android web Spring-Boot React!<br>
  🌐 Building beautiful websites one pixel at a time.<br>
  💡 Committed to open-source collaboration and innovation.<br>
  🔧 Constantly learning and evolving in the tech world.<br>
